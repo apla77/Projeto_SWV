@@ -9,5 +9,4 @@ public class SwvApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SwvApplication.class, args);
 	}
-
 }
